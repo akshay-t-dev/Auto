@@ -8,7 +8,7 @@ export default function AutoMagazine() {
   const featuredArticles = [
     {
       id: 1,
-      title: "2026 Tesla Model 3 Long Range Review",
+      title: "2026 Tesla Model 3 Long Range ",
       excerpt: "The latest iteration of Tesla's popular sedan brings impressive range and new tech features.",
       image: "/images/tesla.avif",
       category: "Reviews",
